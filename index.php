@@ -70,7 +70,7 @@
     <section class="welcome-area particle-bg" id="welcome-area">
         <div id="particles-js"></div>
         <div class="welcome-text">
-            <h6>I Am Carl Watson</h6>
+            <h6>I Am Lourd Rancy</h6>
             <div class="element"></div>
             <a href="#" class="btn-style2 skill-btn">SEE MY WORKS</a>
         </div>
@@ -104,7 +104,7 @@
                             ABOUT ME
                         </h4>
                         <p>
-                            I am Carl Watson.I am a web designer.Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+                            I am Lourd Rancy.I am a web designer.Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
                         </p>
                         <p>
                             Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Pellentesque in ipsum id orci porta dapibus. Nulla porttitor accumsan tincidunt ipsum id orci porta dapibus. Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt ipsum id orci porta dapibus. Nulla porttitor accumsan tincidunt.
@@ -419,7 +419,7 @@
                                 <p class="blog-title">Single Blog Post Title Goes Here</p>
                                 <p class="blog-detail">
                                     <span>Date:</span>01-03-17
-                                    <span>|</span> Posted By <span>Carl Watson</span>
+                                    <span>|</span> Posted By <span>Lourd Rancy</span>
                                 </p>
                                 <p class="blog-description">Molestie tristique lorem interdum aliquetyxe justo viverra per parturient pretium feugiatmf quisque urna eget metus sed...
                                 </p>
@@ -436,7 +436,7 @@
                                 <p class="blog-title">Single Blog Post Title Goes Here</p>
                                 <p class="blog-detail">
                                     <span>Date:</span>01-03-17
-                                    <span>|</span> Posted By <span>Carl Watson</span>
+                                    <span>|</span> Posted By <span>Lourd Rancy</span>
                                 </p>
                                 <p class="blog-description">Molestie tristique lorem interdum aliquetyxe justo viverra per parturient pretium feugiatmf quisque urna eget metus sed...
                                 </p>
@@ -453,7 +453,7 @@
                                 <p class="blog-title">Single Blog Post Title Goes Here</p>
                                 <p class="blog-detail">
                                     <span>Date:</span>01-03-17
-                                    <span>|</span> Posted By <span>Carl Watson</span>
+                                    <span>|</span> Posted By <span>Lourd Rancy</span>
                                 </p>
                                 <p class="blog-description">Molestie tristique lorem interdum aliquetyxe justo viverra per parturient pretium feugiatmf quisque urna eget metus sed...
                                 </p>
